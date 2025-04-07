@@ -40,7 +40,7 @@ VALID_OPERATORS = {
 }
 EOS_TOKEN = "<|eos|>"
 EQ_TOKEN = "="
-MODULUS = 97
+MODULUS = 997
 NUMS = list(range(MODULUS))
 
 DEFAULT_DATA_DIR = "data"
